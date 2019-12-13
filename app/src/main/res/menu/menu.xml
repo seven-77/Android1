@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <?xml version="1.0" encoding="utf-8"?>
+
+        <item android:id="@+id/action_calculator"
+              android:title="计算器"
+              android:orderInCategory="100" />
+        <item android:id="@+id/action_conversion"
+              android:title="换算"
+              android:orderInCategory="100"/>
+
+
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item >长度：</item>
+        <item >千米(km)</item>
+        <item >米(m)</item>
+        <item >分米(dm)</item>
+        <item >厘米(cm)</item>
+        <item >微米(um)</item>
+        <item >纳米(nm)</item>
+        <item >皮米(pm)</item>
+        <item >体积：</item>
+        <item >立方米(m^3)</item>
+        <item >立方分米(dm^3)</item>
+        <item >立方厘米(cm^3)</item>
+        <item >立方毫米(mm^3)</item>
+        <item >进制转换：</item>
+        <item >二进制(2)</item>
+        <item >八进制(8)</item>
+        <item >十进制(10)</item>
+        <item >十六进制(16)</item>
+        <item >汇率换算：</item>
+        <item >人民币CNY</item>
+        <item >日元JPY</item>
+        <item >美元USD</item>
+        <item >欧元EUR</item>
+        <item >英镑GBP</item>
+    </string-array>
+</resources>
